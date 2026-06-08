@@ -1,0 +1,18 @@
+﻿INITIATING PANTEMONIUM PRO STRESS TEST...
+Target: http://localhost:8000/api/v1//garments/scan
+Concurrency Level: 100
+--------------------------------------------------
+
+PERFORMANCE SUMMARY:
+Successful Scans: 100
+Failed Scans:     0
+Total Duration:   0.552s
+Throughput:       181.05 req/s
+--------------------------------------------------
+Latency Profile:
+   Avg: 0.480s
+   Min: 0.410s
+   P95: 0.515s
+   Max: 0.523s
+
+RESULT: STABLE (GOOD)

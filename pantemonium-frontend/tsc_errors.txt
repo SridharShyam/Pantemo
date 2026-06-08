@@ -1,0 +1,4 @@
+﻿src/pages/Dashboard.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+vite.config.ts(14,3): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Object literal may only specify known properties, and 'test' does not exist in type 'UserConfigExport'.
